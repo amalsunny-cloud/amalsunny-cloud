@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amalsunny-cloud&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+   <img src="https://komarev.com/ghpvc/?username=amalsunny-cloud&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 </div>
 
 ---
