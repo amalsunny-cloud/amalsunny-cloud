@@ -170,8 +170,8 @@ const amalSunny = {
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| [🏋️ **Gym Management System**](#) | MongoDB · Express.js · React.js · Node.js · Tailwind CSS · Razorpay · JWT · Chart.js | Full-stack MERN app with role-based access control for admins, trainers & members · Membership management, workout planning, attendance tracking · Razorpay-integrated payment gateway |
-| [📁 **Project Fair App**](#) | MongoDB · Express.js · React.js · Node.js · Bootstrap · Axios · JWT · Multer | Platform enabling users to explore and submit public projects securely · JWT authentication & file uploads via Multer · Secure data handling with token-based auth |
+| [🏋️ **Gym Management System**](https://github.com/amalsunny-cloud/fitNavigator-Frontend) | MongoDB · Express.js · React.js · Node.js · Tailwind CSS · Razorpay · JWT · Chart.js | Full-stack MERN app with role-based access control for admins, trainers & members · Membership management, workout planning, attendance tracking · Razorpay-integrated payment gateway |
+| [📁 **Project Fair App**](https://github.com/amalsunny-cloud/Project-Fair-Frontend) | MongoDB · Express.js · React.js · Node.js · Bootstrap · Axios · JWT · Multer | Platform enabling users to explore and submit public projects securely · JWT authentication & file uploads via Multer · Secure data handling with token-based auth |
 
 </div>
 
@@ -211,7 +211,7 @@ const amalSunny = {
 TypeScript     → Advanced Patterns, Generics, Decorators
 System Design  → Scalability, Load Balancing, Caching
 DevOps         → Docker, CI/CD Pipelines
-Testing        → Jest, React Testing Library
+
 ```
 
 ---
