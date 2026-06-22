@@ -31,9 +31,9 @@ const amalSunny = {
   databases: ["MongoDB", "Firebase"],
   tools: ["Git", "GitHub", "VS Code", "Postman", "npm"],
   currentlyLearning: [
-    "TypeScript → Advanced Patterns",
+    "TypeScript → Advanced",
+    "Next.js"
     "System Design → Scalability",
-    "DevOps → Docker & CI/CD"
   ],
   funFact: "I debug with console.log and I'm not ashamed 😄",
   motto: () => "Build it. Ship it. Improve it.",
