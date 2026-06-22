@@ -197,9 +197,9 @@ const amalSunny = {
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| B.Sc. in Information Technology | Sahrdaya College of Advanced Studies, Kodakara, Thrissur | 2021 – 2024 | — |
+| Degree | Institution | Year |
+|--------|-------------|------|
+| B.Sc. in Information Technology | Sahrdaya College of Advanced Studies, Kodakara, Thrissur | 2021 – 2024 |
 
 </div>
 
@@ -208,9 +208,9 @@ const amalSunny = {
 ## 📚 Currently Learning
 
 ```
-TypeScript     → Advanced Patterns, Generics, Decorators
-System Design  → Scalability, Load Balancing, Caching
-DevOps         → Docker, CI/CD Pipelines
+TypeScript     → Advanced Patterns
+System Design  → Scalability
+Next.js
 
 ```
 
