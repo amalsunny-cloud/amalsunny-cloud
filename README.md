@@ -32,7 +32,8 @@ const amalSunny = {
   tools: ["Git", "GitHub", "VS Code", "Postman", "npm"],
   currentlyLearning: [
     "TypeScript → Advanced",
-    "Next.js"
+    "Next.js",
+    "SQL,
     "System Design → Scalability",
   ],
   funFact: "I debug with console.log and I'm not ashamed 😄",
@@ -211,6 +212,7 @@ const amalSunny = {
 TypeScript     → Advanced Patterns
 System Design  → Scalability
 Next.js
+SQL
 
 ```
 
