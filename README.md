@@ -33,7 +33,7 @@ const amalSunny = {
   currentlyLearning: [
     "TypeScript → Advanced",
     "Next.js",
-    "SQL,
+    "SQL",
     "System Design → Scalability",
   ],
   funFact: "I debug with console.log and I'm not ashamed 😄",
