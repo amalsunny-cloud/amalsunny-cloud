@@ -122,7 +122,7 @@ const amalSunny = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amalsunny-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&rank_icon=github" alt="GitHub Stats with Rank" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amalsunny-cloud&theme=tokyonight&column=7&margin-w=15" alt="Amal's GitHub Trophies" />
 </div>
 
 ---
