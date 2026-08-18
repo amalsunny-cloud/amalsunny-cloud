@@ -93,10 +93,10 @@ const amalSunny = {
 
 <div align="center">
   <a href="https://github.com/amalsunny-cloud">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=amalsunny-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Amal's GitHub Stats"/>
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amalsunny-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Amal's GitHub Stats"/>
   </a>
   <a href="https://github.com/amalsunny-cloud">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalsunny-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amalsunny-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
