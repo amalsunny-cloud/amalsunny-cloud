@@ -122,8 +122,7 @@ const amalSunny = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amalsunny-cloud&theme=tokyonight&no-frame=true&column=6" alt="Amal's GitHub Trophies" width="100%" />
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=amalsunny-cloud&theme=tokyonight&margin-w=15&row=1" alt="Amal's GitHub Trophies" />
 </div>
 
 ---
