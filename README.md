@@ -122,11 +122,7 @@ const amalSunny = {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile_Trophies-70a5fd?style=for-the-badge&logo=github&logoColor=white" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/Commits-100%2B-BF91F3?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/Repositories-Public%20%26%20Private-38BDAE?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-Earned-70A5FD?style=flat-square&logo=githubsponsors" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amalsunny-cloud&theme=tokyonight&no-frame=true&no-bg=false&column=6" alt="Amal's GitHub Trophies" />
 </div>
 
 ---
