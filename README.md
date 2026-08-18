@@ -119,14 +119,6 @@ const amalSunny = {
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=100117&text=🏆%20GitHub%20Achievements%20%26%20Trophies&fontSize=20&fontColor=70a5fd&height=80" width="100%" />
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
